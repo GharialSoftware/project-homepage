@@ -87,8 +87,8 @@
 #   weight = 30
 
 [[footer]]
-  name = "Privacy Policy"
-  url = "/privacy/"
+  name = "Follow me!"
+  url = "https://mastodon.social/@Gharial"
   weight = 10
 
 # [[footer]]

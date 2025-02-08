@@ -6,7 +6,8 @@
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
-      <a class="btn btn-primary btn-cta rounded-pill btn-lg my-3" href="/docs/{{ if site.Params.doks.docsVersioning }}{{ site.Params.doks.docsVersion }}/{{ end }}guides/example-guide/" role="button">{{ i18n "get_started" }}</a>
+      <!-- <a class="btn btn-primary btn-cta rounded-pill btn-lg my-3" href="/docs/{{ if site.Params.doks.docsVersioning }}{{ site.Params.doks.docsVersion }}/{{ end }}guides/example-guide/" role="button">{{ i18n "get_started" }}</a> -->
+      <a class="btn btn-primary btn-cta rounded-pill btn-lg my-3" href="/blog/" role="button">Read the Blog</a>
       {{ .Content }}
     </div>
   </div>
@@ -21,6 +22,36 @@
   {{ end -}}
   {{ if eq $.Site.Language.LanguageName "English" }}
   <section class="section section-md section-features">
+    <div class="container">
+      <div class="row justify-content-center text-center">
+        <div class="col-lg-5">
+          <h2 class="h4">What is this about?</h2>
+          <p>I feel the Fediverse is missing something by mimicking GAFAM products. And with the current foundation we now have, it's time to think of a new generation of software.</p>
+        </div>
+        <div class="col-lg-5">
+          <h2 class="h4">Aim of the project</h2>
+          <p>First, the project is ideological: by doing analysis, constructive criticisms and elaborate a vision.<br/>Secondly, I will develop and provide a new software based on this first step.</p>
+        </div>
+        <div class="col-lg-5">
+          <h2 class="h4">State of the project</h2>
+          <p>It's in early days, currently I aim to define, refine and share my vision, and get feedback from the community.</p>
+        </div>
+        <div class="col-lg-5">
+          <h2 class="h4">Where is the software?</h2>
+          <p>There is none, yet. But it will come soon after the initial project definition.</p>
+        </div>
+        <div class="col-lg-5">
+          <h2 class="h4">Ok, ok, but can you be more specific?</h2>
+          <p>Gharial will be a tool heavily community-centric to help on topics like account discovery, content diffusion and promotion.</p>
+        </div>        
+        <div class="col-lg-5">
+          <h2 class="h4">What's next?</h2>
+          <p>Read the <a href="/blog/">Blog</a>, join the conversation and reach me on <a href="https://mastodon.social/@Gharial" rel="me">Mastodon</a>.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- <section class="section section-md section-features">
     <div class="container">
       <div class="row justify-content-center text-center">
         <div class="col-lg-5">
@@ -41,7 +72,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
   {{ end }}
 {{ end }}
 
