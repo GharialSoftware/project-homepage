@@ -1,4 +1,4 @@
-# project-homepage
+# Gharial Homepage
 
 ## Build 
 
@@ -43,4 +43,4 @@ npm run build
 
 ## Dependancies 
 
-Doks ([getdoks.org](https://getdoks.org))
+* Doks | [getdoks.org](https://getdoks.org)
