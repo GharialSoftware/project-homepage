@@ -1,9 +1,9 @@
 ---
-title: "Example Post"
+title: "Hello, World!"
 description: "Just an example post."
-summary: "You can use blog posts for announcing product updates and features."
-date: 2023-09-07T16:27:22+02:00
-lastmod: 2023-09-07T16:27:22+02:00
+summary: "Gharial is online!"
+date: 2025-02-08T01:00:00-05:00
+lastmod: 2025-02-08T01:00:00-05:00
 draft: false
 weight: 50
 categories: []
@@ -18,8 +18,16 @@ seo:
   robots: "" # custom robot tags (optional)
 ---
 
-Well-thought-through product announcements will help increase feature awareness and engage users with new functionality. Just like [sharing your public roadmap](https://canny.io/blog/should-you-have-a-public-roadmap/), it's also a great way to let potential customers see that you're constantly improving.
+This is the first post of a hopefully long and interesting journey.
 
-## Further reading
+At first this place will feel quite empty, but I'll progressively develop and share my vision, from where I stand, to where I want to go and how.
 
-- Read [How to announce product updates and features](https://canny.io/blog/announce-product-updates-features/)
+All I can tell you so far is... my aim is to provide a new kind of Fediverse software, that will not try to mimic GAFAM's products, that will be community focused and will maybe solve some of the Fediverse's issues at the same time.
+
+Ambitious? Well not that much, but who knows?
+
+I'm also doing my first steps with [Hugo](https://gohugo.io/), so baby steps, I already broke the damn thing more than I can already admit.
+
+### Keep in touch
+
+- Follow me on [Mastodon](https://mastodon.social/@gharial)
