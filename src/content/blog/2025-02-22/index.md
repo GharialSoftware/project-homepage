@@ -3,7 +3,7 @@ title: "Creators aren't salespeople, or shouldn't they"
 description: "First glimpse on the problematics leading the Gharial project"
 summary: ""
 date: 2025-02-22T01:00:00-05:00
-lastmod: 2025-02-22T01:00:00-05:00
+lastmod: 2025-02-22T02:00:00-05:00
 draft: false
 weight: 50
 categories: []
@@ -92,4 +92,4 @@ This was a first glimpse of the problem, in the next blog posts I will dig and d
 
 I would love to get your opinion and feedback, do you agree with this analysis? What does it inspire you? Do you have insights you’d like to share me?
 
-Feel free to reach me directly at [@gharial@mastodon.social](https://mastodon.social/@Gharial), or discuss directly under the (obviously non-threaded) post on mastodon.
+Feel free to reach me directly at [@gharial@mastodon.social](https://mastodon.social/@Gharial), or discuss directly under the (obviously non-threaded) [post on mastodon](https://mastodon.social/@gharial/114050797727850120).
