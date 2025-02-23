@@ -3,12 +3,12 @@ title: "Hello, World!"
 description: "Just an example post."
 summary: "Gharial is online!"
 date: 2025-02-16T01:00:00-05:00
-lastmod: 2025-02-16T01:00:00-05:00
+lastmod: 2025-02-22T01:00:00-05:00
 draft: false
 weight: 50
 categories: []
 tags: []
-contributors: []
+contributors: ["Nicolas Constant"]
 pinned: false
 homepage: false
 seo:
@@ -16,6 +16,7 @@ seo:
   description: "" # custom description (recommended)
   canonical: "" # custom canonical URL (optional)
   robots: "" # custom robot tags (optional)
+  noindex: false
 ---
 
 This is the first post of a hopefully long and interesting journey.
