@@ -68,9 +68,9 @@ And that why we can see hoarding temptation and even massification seeking behav
 
 But... that’s not why we’re here, right? We’re here to share, to chat, to discover, to debate, to have fun, not to compete in a big numbers contest. How those metrics can be relevant in our space?
 
-On the proprietary platforms, this functionality makes a lot of sense: you need engagement to sell [available human brain time]( https://en.wikipedia.org/wiki/Criticism_of_advertising#cite_ref-43:~:text=For%20an%20advertising%20message%20to%20be%20perceived%20the%20brain%20of%20the%20viewer%20must%20be%20at%20our%20disposal.%20The%20job%20of%20our%20programmes%20is%20to%20make%20it%20available%2C%20that%20is%20to%20say%2C%20to%20distract%20it%2C%20to%20relax%20it%20and%20get%20it%20ready%20between%20two%20messages.%20It%20is%20disposable%20human%20brain%20time%20that%20we%20sell%20to%20Coca%20Cola) to advertisers, and this kind of grind game incentivise your users to stay and even work for your service. People will try to engage on trending topics even if it doesn’t interest them for the sole reason of increasing their social metrics, will participate on viral conversations even if they despise the subject, and so on.
+On proprietary platforms, this functionality makes a lot of sense: you need engagement to sell [available human brain time]( https://en.wikipedia.org/wiki/Criticism_of_advertising#cite_ref-43:~:text=For%20an%20advertising%20message%20to%20be%20perceived%20the%20brain%20of%20the%20viewer%20must%20be%20at%20our%20disposal.%20The%20job%20of%20our%20programmes%20is%20to%20make%20it%20available%2C%20that%20is%20to%20say%2C%20to%20distract%20it%2C%20to%20relax%20it%20and%20get%20it%20ready%20between%20two%20messages.%20It%20is%20disposable%20human%20brain%20time%20that%20we%20sell%20to%20Coca%20Cola) to advertisers, and this kind of grind game incentivise your users to stay and even work for your service. People will try to engage on trending topics even if it doesn’t interest them for the sole reason of increasing their social metrics, will participate on viral conversations even if they despise the subject, and so on.
 
-But on the open social web, where the focus of our work is the users themselves, is bringing those metrics in really a good idea? 
+But on the open social web, where the focus of our work is toward the users themselves, is bringing those metrics in really a good idea? 
 
 I’m convinced that we brought this functionality in because it was part of the original offering, and to create a "same thing but FLOSS" software, it just felt natural to keep it. Not because we strongly believe it was a good idea after a throughout and detached analysis. 
 
@@ -89,7 +89,7 @@ I strongly think that the FLOSS conversation should be more of an explanation th
 
 For example, in the case of Mastodon, it’s the claim that people can possess the tools of creating and managing their community that is guaranteed by FLOSS licensing, and we should always insist on the former than the later.
 
-On this side, I also think the value provided by the current landscape is weaker than it could be, and it was illustrated by Meta’s *Threads* service entering the space: people where afraid of the impact of such service, and that they might end Embrace/Extend/Extinguish the Fediverse.
+On this side, I also think the value provided by the current landscape is weaker than it could be, and it was illustrated by Meta’s *Threads* service entering the space: people were afraid of the impact of such service, and that they might end Embrace/Extend/Extinguish the Fediverse.
 
 If we fear that an actor could perform such hostile operation, it just means that the value and experience of the Fediverse isn’t sufficiently anchored in what FLOSS can permit (sovereignty, interconnectivity, etc).
 
@@ -97,18 +97,18 @@ The best warranty of resilience we can obtain is by making sure that the first c
 
 Even better: we should try to create services and software that couldn’t be replicate in the proprietary space, offering a user experience impossible to experiment with privative networks. 
 
-Hence binging something truly original to the table and ensuring our independence and resilience.
+Hence bringing something truly original to the table and ensuring our independence and resilience.
 
 
 ## The Open Social Web as a peaceful experience
 
-In the current “FOMO” and hyper-competitive space that BigTech’s service provides, there is a nice and easy way to fundamentally distinct the Open Social Web to make it more attractive: creating tools and offering the opposite experience.
+In the current “FOMO” and hyper-competitive space that BigTech’s service provides, there is a nice and easy way to fundamentally distinct the Open Social Web to make it more attractive: offering the opposite experience.
 
 If we look back at the good old 2000’s web, people were following this path: checking blogs and websites to see if new content were published was tedious, so we invented RSS feeds, aggregators, etc. The idea was to remove pressure and make our life easier and less prone to FOMO.
 
-That also explain why many of us didn’t understand the attractiveness of Facebook or Twitter as a RSS replacement at that time, since it reintegrated those bad aspects (but to be completely fair, it was only because RSS was only known and used by power users, we failed on the vulgarisation field).
+That also explain why many of us didn’t understand the attractiveness of Facebook or Twitter as a RSS replacement at that time, since it reintegrated those bad aspects (but to be completely fair, it was only because RSS was only known and used by power users, we also failed on the vulgarisation field).
 
-Also, being on the Fediverse since 2017, here is some interesting observations I’ve made: 
+Also, being on the Fediverse since 2017, here is some observations I’ve made: 
 
 * I’ve never really seen newcomers being fond of the decentralized aspect: it increases the onboarding complexity with few advantages at first sight.
 * But on the other hand, newcomers - after some time - are amazed by the more appeased and calm space the Fediverse is, and that’s what ultimately make them stay.
