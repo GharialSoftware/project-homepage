@@ -2,8 +2,8 @@
 title: "We should stop duplicating proprietary services"
 description: "Thoughts on the problematics leading the Gharial project"
 summary: ""
-date: 2025-04-18T01:00:00-05:00
-lastmod: 2025-04-18T02:00:00-05:00
+date: 2025-04-24T01:00:00-05:00
+lastmod: 2025-04-24T02:00:00-05:00
 draft: false
 weight: 50
 categories: []
