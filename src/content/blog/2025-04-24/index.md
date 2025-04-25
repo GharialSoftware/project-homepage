@@ -3,7 +3,7 @@ title: "We should stop duplicating proprietary services"
 description: "Thoughts on the problematics leading the Gharial project"
 summary: ""
 date: 2025-04-24T01:00:00-05:00
-lastmod: 2025-04-24T02:00:00-05:00
+lastmod: 2025-04-24T03:00:00-05:00
 draft: false
 weight: 50
 categories: []
@@ -128,4 +128,4 @@ I aim to create Gharial with all those thoughts in mind.
 
 I would love to get your opinion and feedback; do you agree with this analysis? What does it inspire you? Do you have insights you’d like to share with me? 
 
-Feel free to reach me directly at [@gharial@mastodon.social](https://mastodon.social/@gharial), or discuss directly under the post on mastodon.
+Feel free to reach me directly at [@gharial@mastodon.social](https://mastodon.social/@gharial), or discuss directly under [the post on mastodon](https://mastodon.social/@gharial/114396530696547979).
