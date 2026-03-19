@@ -23,6 +23,7 @@
       "head",
       "header",
       "html",
+      "i",
       "input",
       "kbd",
       "label",
@@ -231,7 +232,10 @@
     "ids": [
       "TableOfContents",
       "buttonColorMode",
+      "conclusion",
       "doks-docs-nav",
+      "example-curation-of-content",
+      "federation-between-2nd-layer-fediverse-software",
       "floss-should-be-a-mean-not-an-end",
       "further-reading",
       "gharial",
@@ -249,11 +253,15 @@
       "searchResults",
       "searchToggleDesktop",
       "searchToggleMobile",
+      "so-what-would-be-a-2nd-layer-fediverse-software",
       "socialMenu",
       "the-open-social-web-as-a-peaceful-experience",
       "the-salesmans-transformation",
       "the-visibility-heist",
       "toc",
+      "wait-what-is-the-1st-layer-of-fediverse-software",
+      "what-is-a-1st-layer-fediverse-software",
+      "what-is-the-1st-layer-of-fediverse-software",
       "wip-come-back-later"
     ]
   }
